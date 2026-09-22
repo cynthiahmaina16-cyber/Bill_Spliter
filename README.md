@@ -30,8 +30,8 @@ Each person pays: \$62.13
 ##  Built With
 * **Python 3** (Standard built-in modules)
 
-##  Installation & Running Locally
-To run this project on your local machine, open your command console and execute the following setup instructions:
+##  Live Demo
+ **[Click here to run the live Bill Splitter](https://bill-splitter-1237.ai.studio)**
 
 ```bash
 # Clone the repository
