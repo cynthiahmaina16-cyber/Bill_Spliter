@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  }
+  
+  .font-mono {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  }
+}
+
+/* Realistic zigzag receipt edge */
+.receipt-perforation-top {
+  background-image: radial-gradient(circle at 10px 0, transparent 0, transparent 6px, #ffffff 6.5px);
+  background-size: 20px 20px;
+  background-repeat: repeat-x;
+}
+
+.receipt-perforation-bottom {
+  background-image: radial-gradient(circle at 10px 20px, transparent 0, transparent 6px, #ffffff 6.5px);
+  background-size: 20px 20px;
+  background-repeat: repeat-x;
+}
