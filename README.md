@@ -34,12 +34,3 @@ Each person pays: \$62.13
  **[Click here to run the live Bill Splitter](https://bill-splitter-1237.ai.studio)**
 
 ```bash
-# Clone the repository
-git clone https://github.com
-
-# Navigate into the project directory
-cd interactive-bill-splitter
-
-# Run the python script
-python bill_splitter.py
-```
